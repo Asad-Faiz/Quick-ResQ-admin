@@ -1,0 +1,33 @@
+2023/06/11-20:42:15.082 3508 Reusing MANIFEST C:\Users\asadf\AppData\Local\Temp\flutter_tools.68eef712\flutter_tools_chrome_device.c6e9a0d0\Default\IndexedDB\http_localhost_63664.indexeddb.leveldb/MANIFEST-000001
+2023/06/11-20:42:15.082 3508 Recovering log #11
+2023/06/11-20:42:15.082 3508 Reusing old log C:\Users\asadf\AppData\Local\Temp\flutter_tools.68eef712\flutter_tools_chrome_device.c6e9a0d0\Default\IndexedDB\http_localhost_63664.indexeddb.leveldb/000011.log 
+2023/06/11-20:42:15.090 36e4 Level-0 table #15: started
+2023/06/11-20:42:15.095 36e4 Level-0 table #15: 3207 bytes OK
+2023/06/11-20:42:15.101 36e4 Delete type=0 #11
+2023/06/11-20:42:15.102 3508 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 247 : 1
+2023/06/11-20:42:15.102 3508 Compacting 1@0 + 1@1 files
+2023/06/11-20:42:15.105 3508 Generated table #16@0: 20 keys, 2578 bytes
+2023/06/11-20:42:15.105 3508 Compacted 1@0 + 1@1 files => 2578 bytes
+2023/06/11-20:42:15.108 3508 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/11-20:42:15.109 3508 Delete type=2 #15
+2023/06/11-20:42:15.109 3508 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 247 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/11-20:55:06.842 3508 Level-0 table #18: started
+2023/06/11-20:55:06.845 3508 Level-0 table #18: 2765 bytes OK
+2023/06/11-20:55:06.848 3508 Delete type=2 #12
+2023/06/11-20:55:06.848 3508 Delete type=0 #14
+2023/06/11-20:55:06.850 3508 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00D\x00V\x005\x00g\x00M\x00S\x00g\x00O\x00a\x00Y\x00y\x00g\x00O\x00I\x00c\x00u\x00r\x00p\x00m\x00p\x00G\x00F\x00p\x00V\x00o\x00j\x009\x00O\x00R\x004\x00x\x00-\x00k\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 282 : 1
+2023/06/11-20:55:06.850 3508 Compacting 1@0 + 1@1 files
+2023/06/11-20:55:06.853 3508 Generated table #19@0: 21 keys, 2499 bytes
+2023/06/11-20:55:06.853 3508 Compacted 1@0 + 1@1 files => 2499 bytes
+2023/06/11-20:55:06.855 3508 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/11-20:55:06.855 3508 Delete type=2 #16
+2023/06/11-20:55:06.855 3508 Delete type=2 #18
+2023/06/11-20:55:06.856 3508 Manual compaction at level-0 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00D\x00V\x005\x00g\x00M\x00S\x00g\x00O\x00a\x00Y\x00y\x00g\x00O\x00I\x00c\x00u\x00r\x00p\x00m\x00p\x00G\x00F\x00p\x00V\x00o\x00j\x009\x00O\x00R\x004\x00x\x00-\x00k\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 282 : 1 .. (end); will stop at (end)
+2023/06/11-20:55:06.856 3508 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00D\x00V\x005\x00g\x00M\x00S\x00g\x00O\x00a\x00Y\x00y\x00g\x00O\x00I\x00c\x00u\x00r\x00p\x00m\x00p\x00G\x00F\x00p\x00V\x00o\x00j\x009\x00O\x00R\x004\x00x\x00-\x00k\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 282 : 1
+2023/06/11-20:55:06.856 3508 Compacting 1@1 + 1@2 files
+2023/06/11-20:55:06.859 3508 Generated table #20@1: 36 keys, 2796 bytes
+2023/06/11-20:55:06.859 3508 Compacted 1@1 + 1@2 files => 2796 bytes
+2023/06/11-20:55:06.861 3508 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/11-20:55:06.861 3508 Delete type=2 #9
+2023/06/11-20:55:06.861 3508 Delete type=2 #19
+2023/06/11-20:55:06.862 3508 Manual compaction at level-1 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00D\x00V\x005\x00g\x00M\x00S\x00g\x00O\x00a\x00Y\x00y\x00g\x00O\x00I\x00c\x00u\x00r\x00p\x00m\x00p\x00G\x00F\x00p\x00V\x00o\x00j\x009\x00O\x00R\x004\x00x\x00-\x00k\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 282 : 1 .. (end); will stop at (end)
